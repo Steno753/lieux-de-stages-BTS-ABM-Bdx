@@ -1,0 +1,8 @@
+voila==0.2.6
+folium==0.12.1
+ipywidgets==7.6.3
+ipyleaflet==0.14.0
+reportlab==3.5.68
+pathlib==1.0.1
+selenium==3.141.0
+splinter==0.15.0
